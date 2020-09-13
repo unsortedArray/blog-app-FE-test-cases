@@ -1,4 +1,4 @@
-import Home from '../Home'
+import Home from '../../Home'
 import React from 'react';
 import { shallow,mount } from 'enzyme';
 

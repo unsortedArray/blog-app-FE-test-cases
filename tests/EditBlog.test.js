@@ -1,4 +1,4 @@
-import EditBlog from '../EditBlog'
+import EditBlog from '../../EditBlog'
 import React from 'react';
 import { shallow,mount } from 'enzyme';
 

@@ -1,4 +1,4 @@
-import AddBlog from '../AddBlog'
+import AddBlog from '../../AddBlog'
 import React from 'react';
 import { shallow,mount,configure } from 'enzyme';
 
